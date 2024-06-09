@@ -5,6 +5,7 @@ public class Main {
         boolean negative = false;
         double sum = 0;
         int count = 0;
+
         for (double i : numbers
         ) {
             if (negative && i > 0) {
